@@ -1,0 +1,22 @@
+{"version_code":451219,"content":"
+<p>تحديث 1.70 (Update)</p>
+<p>15/09/2019</p>
+
+<li>زيادة حجم الحالة الى اكثر من ساعة</li>
+
+<li>أضافة خيار مراسلة رقم غير محفوظ بشكل متطور</li>
+
+<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
+
+<li> أضافة قفل النمط لقفل الواتساب بي الكامل</li>
+
+<li>إصلاحات اخرى</li>
+
+<li> Increase the number of members of the broadcasts to 1024</li>
+
+<li> Added New Launcher Icons</li>
+
+<li> Many More Fixes</li>
+
+","url":"https://kiwhatsapp.blogspot.com/2019/06/whatsapp-plus-2019.html"
+}
